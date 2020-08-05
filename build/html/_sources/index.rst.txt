@@ -9,6 +9,8 @@ Welcome to Wangdi_Web's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   Research/index
 
 
 

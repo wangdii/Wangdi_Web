@@ -3,20 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Wangdi_Web's documentation!
+我的科研
 ======================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    
-   Research/index
+   r1.rst
+   r2.rst
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
